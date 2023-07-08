@@ -4,3 +4,6 @@ bar_name = "Moe's Tavern"
 restaurant_rating = 4.2
 cafe_rating = 3.7
 bar_rating = 2.1
+restaurant_seats = 120
+cafe_seats = 22
+bar_seats = 76
