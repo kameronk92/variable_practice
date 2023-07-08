@@ -7,3 +7,6 @@ bar_rating = 2.1
 restaurant_seats = 120
 cafe_seats = 22
 bar_seats = 76
+restaurant_open = false
+bar _open = false
+cafe_open = true
